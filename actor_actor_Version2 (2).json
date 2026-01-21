@@ -1,0 +1,17 @@
+{
+    "actorSpecification": 1,
+    "name": "anti-scalper-retail-inventory-tracker",
+    "title": "The \"Anti-Scalper\" Retail Inventory Tracker",
+    "description": "The \"Anti-Scalper\" Retail Inventory Tracker",
+    "version": "0.0",
+    "meta": {
+        "templateId": "ai-generated-actor",
+        "generatedBy": "gpt-4o"
+    },
+    "input": "./input_schema.json",
+    "output": "./output_schema.json",
+    "storages": {
+        "dataset": "./dataset_schema.json"
+    },
+    "dockerfile": "../Dockerfile"
+}
